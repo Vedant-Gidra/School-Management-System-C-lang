@@ -15,7 +15,7 @@ This Student Information Management System is a console-based C program designed
 ## How to Run
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/student-information-system.git
+    git clone https://github.com/Vedant-Gidra/student-information-system.git
     cd student-information-system
     ```
 
@@ -59,6 +59,4 @@ If you'd like to contribute to this project, please follow these steps:
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-**Note**: Replace `https://github.com/your-username/student-information-system.git` with the actual URL of your GitHub repository.
