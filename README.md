@@ -48,12 +48,3 @@ This Student Information Management System is a console-based C program designed
 - The system can store information for a maximum of 100 students.
 - The program does not persist data after exiting, meaning all records are lost when the program is closed.
 
-## Contributing
-If you'd like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes and commit them (`git commit -m "Describe your changes"`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a Pull Request.
-
-
